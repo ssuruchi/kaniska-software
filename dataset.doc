@@ -1,0 +1,10 @@
+This dataset reports economic or financial data for various countries or regions over a period of time(1960 - 2016), where each data point is identified by the country name, country code, year and the actual value being reported.
+
+The dataset has 4 attributes: 
+    Country Name: This attribute refers to the name of the country or region for which the data is being reported. In the example "India" is the country name.
+
+    Country Code: This attribute is a unique code assigned to each country or region in order to identify it in the dataset. In the example you've given, "IND" is the country code assigned to India.
+
+    Year: This attribute indicates the year in which the data was collected or reported. In the example, the data is from the year 1960.
+
+    Value: This attribute represents the actual data being reported for India, code and year. 
